@@ -1,6 +1,6 @@
 # Push Notifications for Cordova (Copy)
 
-## Description
+## Description 
 
 Implementation of Push Notifications using the new GCM that Google featured in their 2015 Google I/O conference: https://developers.google.com/cloud-messaging/
 
